@@ -1,5 +1,5 @@
 name: knowledge-capricorn
-version: 0.1.0
+version: 0.1.0-rc1
 type: knowledge
 description: "Regel Capricorn — jede Antwort beginnt mit dem Präfix „🐐 “, der User wird geduzt"
 requires:
